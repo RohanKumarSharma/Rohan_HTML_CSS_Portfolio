@@ -1244,3 +1244,22 @@ h2 {
   background: #fff;
   transform: translateY(-2px);
 }
+
+
+/* Mobile Responsive Resume Button */
+@media (max-width: 768px) {
+  .button.button-light {
+    padding: 6px 10px;
+    font-size: 11px;
+    gap: 5px;
+    border-radius: 6px;
+  }
+}
+
+@media (max-width: 480px) {
+  .button.button-light {
+    padding: 5px 8px;
+    font-size: 10px;
+    gap: 4px;
+  }
+}
