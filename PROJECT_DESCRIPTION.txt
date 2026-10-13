@@ -1,0 +1,9 @@
+Project: Personal Portfolio Website
+Technologies: HTML5 and CSS3 only.
+
+This responsive personal portfolio introduces Rohan Kumar Sharma, an MCA student and aspiring Full Stack Developer. It includes Home, About, Skills, Projects, Contact, and Footer sections, with working section navigation and links to project/profile pages. CSS Grid and Flexbox are used to arrange content, and responsive media queries adapt the layout to mobile, tablet, and desktop screens. The website uses a consistent dark theme with lime and blue accents, hover/focus states, semantic HTML, and a reduced-motion accessibility preference.
+
+Before submission:
+1. Replace rohan.kumar@example.com with your real email in index.html.
+2. Verify that project descriptions accurately represent your work and update links if needed.
+3. Open index.html in Chrome, check desktop and mobile widths, and capture screenshots.
